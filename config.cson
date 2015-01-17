@@ -1,0 +1,15 @@
+"*":
+  editor:
+    fontSize: 12
+    showIndentGuide: true
+    preferredLineLength: 9999
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "dracula-theme"
+    ]
+  "exception-reporting":
+    userId: "31dfd207-938e-855d-7c61-2cf0b99e3365"
+  welcome:
+    showOnStartup: false
