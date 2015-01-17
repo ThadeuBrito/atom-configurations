@@ -1,12 +1,12 @@
 "*":
   editor:
-    fontSize: 12
+    fontSize: 11
     showIndentGuide: true
     preferredLineLength: 9999
     invisibles: {}
   core:
     themes: [
-      "atom-dark-ui"
+      "spacegray-dracula-ui"
       "dracula-theme"
     ]
   "exception-reporting":
